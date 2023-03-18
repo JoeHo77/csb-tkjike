@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://joeho77.github.io/csb-tkjike/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://joeho77.github.io/csb-tkjike/static/js/main.8cddfe90.chunk.js",
+    "main.js.map": "https://joeho77.github.io/csb-tkjike/static/js/main.8cddfe90.chunk.js.map",
+    "runtime-main.js": "https://joeho77.github.io/csb-tkjike/static/js/runtime-main.eba73201.js",
+    "runtime-main.js.map": "https://joeho77.github.io/csb-tkjike/static/js/runtime-main.eba73201.js.map",
+    "static/js/2.cd2357f0.chunk.js": "https://joeho77.github.io/csb-tkjike/static/js/2.cd2357f0.chunk.js",
+    "static/js/2.cd2357f0.chunk.js.map": "https://joeho77.github.io/csb-tkjike/static/js/2.cd2357f0.chunk.js.map",
+    "index.html": "https://joeho77.github.io/csb-tkjike/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://joeho77.github.io/csb-tkjike/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cd2357f0.chunk.js.LICENSE.txt": "https://joeho77.github.io/csb-tkjike/static/js/2.cd2357f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eba73201.js",
+    "static/js/2.cd2357f0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8cddfe90.chunk.js"
+  ]
+}
